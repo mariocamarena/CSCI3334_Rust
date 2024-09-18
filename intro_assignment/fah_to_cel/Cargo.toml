@@ -1,0 +1,6 @@
+[package]
+name = "fah_to_cel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
